@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-27T21:12:12Z" name="Suite" finished-at="2019-07-27T21:12:12Z" duration-ms="76">
+    <groups>
+    </groups>
+    <test started-at="2019-07-27T21:12:12Z" name="Test" finished-at="2019-07-27T21:12:12Z" duration-ms="76">
+      <class name="prarthanaMaven.SecondTest">
+        <test-method signature="displaythree()[pri:0, instance:prarthanaMaven.SecondTest@4b168fa9]" started-at="2019-07-27T21:12:12Z" name="displaythree" finished-at="2019-07-27T21:12:12Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaythree -->
+      </class> <!-- prarthanaMaven.SecondTest -->
+      <class name="prarthanaMaven.MavenTest">
+        <test-method signature="DisplayTwo()[pri:0, instance:prarthanaMaven.MavenTest@48524010]" started-at="2019-07-27T21:12:12Z" name="DisplayTwo" finished-at="2019-07-27T21:12:12Z" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DisplayTwo -->
+      </class> <!-- prarthanaMaven.MavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
