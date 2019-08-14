@@ -8,6 +8,9 @@ public class MavenTest {
 	public void DisplayOne()
 	{
 	System.out.println("DisplayOne");
+	System.out.println("DisplayOne");
+	System.out.println("DisplayOne");
+	System.out.println("DisplayOne");
 	}
 	
 	@Test
