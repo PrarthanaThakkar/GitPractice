@@ -8,19 +8,14 @@ public class MavenTest {
 	public void DisplayOne()
 	{
 	System.out.println("DisplayOne");
-	System.out.println("DisplayOne");
-	System.out.println("DisplayOne");
-	System.out.println("DisplayOne");
-	System.out.println("DisplayOne");
+	
 	
 	}
 	
 	@Test
 	public void DisplayTwo() {
 		System.out.println("DisplayTwo");
-		System.out.println("DisplayTwo");
-		System.out.println("DisplayTwo");
-		System.out.println("DisplayTwo");
+		
 	}
 	
 }
