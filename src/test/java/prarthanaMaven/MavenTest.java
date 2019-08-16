@@ -16,6 +16,9 @@ public class MavenTest {
 	@Test
 	public void DisplayTwo() {
 		System.out.println("DisplayTwo");
+		System.out.println("DisplayTwo");
+		System.out.println("DisplayTwo");
+		System.out.println("DisplayTwo");
 	}
 	
 }
